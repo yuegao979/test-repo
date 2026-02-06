@@ -6,3 +6,7 @@
 
 第三次
 
+This line is from conflict B.
+
+
+
